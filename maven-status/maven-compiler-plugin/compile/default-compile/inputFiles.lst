@@ -1,0 +1,14 @@
+/Users/kakao/IdeaProjects/hakgoongido/src/main/java/com/example/hakgoongido/config/H2ServerConfig.java
+/Users/kakao/IdeaProjects/hakgoongido/src/main/java/com/example/hakgoongido/highSchoolInfo/repository/customRepository/HighSchoolInfoCRepository.java
+/Users/kakao/IdeaProjects/hakgoongido/src/main/java/com/example/hakgoongido/highSchoolInfo/service/HighSchoolInfoService.java
+/Users/kakao/IdeaProjects/hakgoongido/src/main/java/com/example/hakgoongido/highSchoolInfo/entity/HighSchoolInfoEntity.java
+/Users/kakao/IdeaProjects/hakgoongido/src/main/java/com/example/hakgoongido/highSchoolInfo/controller/HighSchoolInfoController.java
+/Users/kakao/IdeaProjects/hakgoongido/src/main/java/com/example/hakgoongido/highSchoolInfo/dto/HighSchoolInfoDTO.java
+/Users/kakao/IdeaProjects/hakgoongido/src/main/java/com/example/hakgoongido/highSchoolInfo/repository/HighSchoolInfoMapper.java
+/Users/kakao/IdeaProjects/hakgoongido/src/main/java/com/example/hakgoongido/highSchoolInfo/repository/customRepository/HighSchoolInfoCRepositoryImpl.java
+/Users/kakao/IdeaProjects/hakgoongido/src/main/java/com/example/hakgoongido/HakgoongidoApplication.java
+/Users/kakao/IdeaProjects/hakgoongido/src/main/java/com/example/hakgoongido/config/CorsConfig.java
+/Users/kakao/IdeaProjects/hakgoongido/src/main/java/com/example/hakgoongido/config/SwaggerConfig.java
+/Users/kakao/IdeaProjects/hakgoongido/src/main/java/com/example/hakgoongido/highSchoolInfo/repository/HighSchoolInfoRepository.java
+/Users/kakao/IdeaProjects/hakgoongido/src/main/java/com/example/hakgoongido/highSchoolInfo/dto/HighSchoolSearchBody.java
+/Users/kakao/IdeaProjects/hakgoongido/target/generated-sources/java/com/example/hakgoongido/highSchoolInfo/entity/QHighSchoolInfoEntity.java
